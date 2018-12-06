@@ -1,0 +1,22 @@
+{
+  "name": "resume-theme-elegant",
+  "version": "1.0.0",
+  "description": "Use JSON resume cli tool to create resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chialin/resume-theme-elegant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chialin/resume-theme-elegant/issues"
+  },
+  "homepage": "https://github.com/chialin/resume-theme-elegant#readme",
+  "dependencies": {
+    "resume-cli": "^1.1.2"
+  }
+}
