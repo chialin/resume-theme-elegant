@@ -6,7 +6,7 @@
   "scripts": {
     "init": "resume init",
     "export": "resume export --format pdf resume.pdf",
-    "start": "resume serve --port 3001",
+    "start": "resume serve --theme elegant --port 3001",
     "test": "resume test"
   },
   "repository": {
